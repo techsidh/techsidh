@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @techsidh
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently hands on Machine learning.
 - 📫 How to reach me ...
 
 <!---
